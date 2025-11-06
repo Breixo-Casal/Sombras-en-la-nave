@@ -22,8 +22,9 @@ Cómo jugar
 Sombras_en_la_nave.py
 
 3. Entra en la carpeta donde está el juego y ejecútalo con:
-```bash
-python Sombras_en_la_nave.py
+
+python3 Sombras_en_la_nave.py
+
 Usa los números del menú para moverte o decidir.
 
 El juego se guarda automáticamente cuando usas el comando guardar.
